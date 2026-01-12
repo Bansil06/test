@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello, World! I am BANSIL'
+                echo 'Hello, World! I am DevOps'
             }
         }
     }
